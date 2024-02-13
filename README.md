@@ -5,15 +5,15 @@ he York University Teledyne Optech (YUTO) Mobile Mapping System (MMS) Dataset, e
 two strategic locations: the York University Keele Campus in Toronto and the Teledyne Optech headquarters in City of Vaughan, Canada. This is a robust benchmark of prevailing Simultaneous Localization and Mapping (SLAM) systems. 
 This dataset was created by a team of [AUSM Lab](https://gunhosohn.me/).
 
-For more details check out our paper ["YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research"](https://arxiv.org/abs/2001.11770v1), and [website](https://yujiazhang777.github.io/yutomms.github.io/).  
+For more details check out our paper ["YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research"](https://arxiv.org/abs/2001.11770v1), and [website](https://ausmlab.github.io/yutomms/).
 
 
 
 * **Key Links**
-	* **YUTO MMS Dataset**: [Download](https://yujiazhang777.github.io/yutomms.github.io/download.html)
+	* **YUTO MMS Dataset**: [Download](https://ausmlab.github.io/yutomms/download.html)
 	* **Paper**: ["YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research"](https://www.researchgate.net/profile/Yujia-Zhang-29)
 	* **Models Code**: [MaverickProjectLidar2Image](https://github.com/yujiazhang777/MaverickProjectLidar2Image)
-	* **Website**: [YUTO MMS](https://yujiazhang777.github.io/yutomms.github.io/)
+	* **Website**: [YUTO MMS](https://ausmlab.github.io/yutomms/)
 
 
 ## Question Answering Datasets
