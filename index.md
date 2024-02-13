@@ -9,7 +9,7 @@ This dataset was created by a team of [AUSM Lab](https://gunhosohn.me/).
 For more details on YUTO MMS dataset, please refer to our [paper](#paper).  
 
 <center>
-    <a href="https://github.com/yujiazhang777/yutomms.github.io/blob/main/images/maverick_route.jpg"> 
+    <a href="https://github.com/ausmlab/yutomms/tree/main/images/maverick_route.jpg"> 
         <img src="images/maverick_route.jpg" height="170">
       </a>
 </center>
@@ -41,7 +41,7 @@ DOI = {10.3390/rs15133383}
 <div class="card">
   <img src="images/authors/author_01.jpg" alt="Avatar" width="250" height="100">
   <div class="container">
-    <a href="https://yujiazhang777.github.io/yujiazhang.github.io/">
+    <a href="https://ausmlab.github.io/yutomms/">
     <h4><b>Yujia Zhang</b></h4>  
     </a>
   </div>
@@ -90,7 +90,7 @@ DOI = {10.3390/rs15133383}
 The directory structure of our YUTO MMS dataset is shown in the following figure.  
 
 <center>
-    <a href="https://github.com/yujiazhang777/yutomms.github.io/blob/main/images/YUTO-Dataset-directory-structure.JPG"> 
+    <a href="https://github.com/ausmlab/yutomms/tree/main/images/YUTO-Dataset-directory-structure.JPG"> 
         <img src="images/YUTO-Dataset-directory-structure.JPG" height="400">
       </a>
 </center>
