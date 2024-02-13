@@ -1,6 +1,6 @@
 ## Download YUTO MMS dataset
 
-- For the full documentation of the dataset and its format please refer to our [Github repository](https://github.com/yujiazhang777/yutomms.github.io).  
+- For the full documentation of the dataset and its format please refer to our [Github repository](https://ausmlab.github.io/yutomms/).  
 - Data structure: 
   * Panoramic images
   * LiDAR data
