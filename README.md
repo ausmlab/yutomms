@@ -5,7 +5,7 @@ he York University Teledyne Optech (YUTO) Mobile Mapping System (MMS) Dataset, e
 two strategic locations: the York University Keele Campus in Toronto and the Teledyne Optech headquarters in City of Vaughan, Canada. This is a robust benchmark of prevailing Simultaneous Localization and Mapping (SLAM) systems. 
 This dataset was created by a team of [AUSM Lab](https://gunhosohn.me/).
 
-For more details check out our paper ["YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research"](https://arxiv.org/abs/2001.11770v1), and [website](https://ausmlab.github.io/yutomms/).
+For more details check out our paper ["YUTO MMS: A Comprehensive Multi-Sensor Dataset in Urban and Campus Environments for Enhanced SLAM Research"](https://arxiv.org/abs/2001.11770v1), and [website](https://ausmlab.github.io/yutomms/).
 
 
 
@@ -30,17 +30,19 @@ For more details check out our paper ["YUTO MMS: A Comprehensive Mobile Mapping 
 * Sequence B: .
 * Sequence C: .
 * Sequence D: .
+* Sequence E: .
 
 ### Data Format
 
 * GNSS:
-	* imu.csv:
+	* IMU.csv:
 		* **``ax, ay, az``**: acceleration.
 		* **``gx, gy, gz``**: angular rate.
 	* GPS.csv:
 		* **``"latitude"``**: .
 		* **``"longitude"``**: .
                                 * **``"altitude"``**: .
+
 * Panoramic images:
 * Lidar scans:
 	
@@ -49,12 +51,13 @@ For more details check out our paper ["YUTO MMS: A Comprehensive Mobile Mapping 
 
 YUTO MMS question decomposition datasets:
 
-| Data | Image format and nubmer | LiDAR format and number | IMU format | GPS format |
+| Data | Image format and nubmer | LiDAR format and number | IMU+GPS format |
 |-----------|-------------------------|-------------------------|-------------------------|-------------------------|
-| Sequence A | .jpg, 717     |     .bin, 1432      |     .csv     |     .csv    |
-| Sequence B | .jpg, 8382    |    .bin, 17395     |     .csv     |     .csv    |
-| Sequence C | .jpg, 10776  |    .bin, 22992     |     .csv     |     .csv    |
-| Sequence D | .jpg, 450     |    .bin, 9615       |     .csv     |     .csv    |
+| Sequence A | .jpg, 700     |     .bin, 1432      |    .csv, 11845    |
+| Sequence B | .jpg, 8382    |    .bin, 17395     |     .csv, 143637    |
+| Sequence C | .jpg, 10778  |    .bin, 22992     |     .csv,  189875  |
+| Sequence D | .jpg, 9863     |    .bin, 19775       |   .csv, 163295    |
+| Sequence E | .jpg, 8157     |    .bin, 22216       |   .csv, 183451    |
 
 
 ## Reference

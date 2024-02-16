@@ -95,23 +95,15 @@ The directory structure of our YUTO MMS dataset is shown in the following figure
       </a>
 </center>
 
-**Panoramic images general information**
+**YUTO MMS dataset general information**
 
-Sequence | Image file format | Image w*h | Number of images | Min file size | Max file size | Average file size | Total directory volume 
------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
-A | JPG | 2000*1000 | 717  | 1368 KB | 1592 KB  | 1484 KB | 1.06 GB   
-B | JPG | 2000*1000 | 8382  | 456 KB | 828 KB  | 541 KB | 4.5 GB     
-C | JPG | 2000*1000 | 10776  | 468 KB | 636 KB  | 542 KB | 5.8 GB    
-D | JPG | 2000*1000 | 4500  | 452 KB | 1012 KB  | 561 KB | 2.5 GB    
-
-**LiDAR data general information**
-
-Sequence | LiDAR file format | Number of images | Min file size | Max file size | Average file size | Total directory volume 
------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-A | .bin | 1432 | 124 KB | 648 KB  | 422 KB | 604.8 GB   
-B | .bin | 17395 | 16 KB | 644 KB  | 464 KB | 7.7 GB     
-C | .bin | 22992 | 24 KB | 708 KB  | 470 KB | 10.3 GB    
-D | .bin | 9615 | 380 KB | 668 KB  | 485 KB | 4.6 GB    
+Sequence | Number of image files | Number of LiDAR scans | Number of GPS+IMU data | Total directory volume 
+------------ | ------------- | ------------- | ------------- | ------------- 
+A | 700 | 1432 | 11845 | 3.8 GB   
+B | 8382 | 17395 | 143637 | 45.6 GB     
+C | 10778 | 22992 | 189875 | 59.2 GB    
+D | 9863 | 19775 | 163295 | 54.7 GB    
+E | 8157 | 22216 | 183451 | 44.4 GB    
 
 **Dataset Evaluation**
 
