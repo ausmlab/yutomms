@@ -52,7 +52,7 @@ For more details check out our paper ["YUTO MMS: A Comprehensive Multi-Sensor Da
 YUTO MMS question decomposition datasets:
 
 | Data | Image format and nubmer | LiDAR format and number | IMU+GPS format |
-|-----------|-------------------------|-------------------------|-------------------------|-------------------------|
+|-----------|-------------------------|-------------------------|-------------------------|
 | Sequence A | .jpg, 700     |     .bin, 1432      |    .csv, 11845    |
 | Sequence B | .jpg, 8382    |    .bin, 17395     |     .csv, 143637    |
 | Sequence C | .jpg, 10778  |    .bin, 22992     |     .csv,  189875  |
