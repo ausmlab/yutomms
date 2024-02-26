@@ -30,7 +30,6 @@ For more details check out our paper ["YUTO MMS: A Comprehensive Multi-Sensor Da
 * Sequence B: .
 * Sequence C: .
 * Sequence D: .
-* Sequence E: .
 
 ### Data Format
 
@@ -56,8 +55,7 @@ YUTO MMS question decomposition datasets:
 | Sequence A | .jpg, 700     |     .bin, 1432      |    .csv, 11845    |
 | Sequence B | .jpg, 8382    |    .bin, 17395     |     .csv, 143637    |
 | Sequence C | .jpg, 10778  |    .bin, 22992     |     .csv,  189875  |
-| Sequence D | .jpg, 9863     |    .bin, 19775       |   .csv, 163295    |
-| Sequence E | .jpg, 8157     |    .bin, 22216       |   .csv, 183451    |
+| Sequence D | .jpg, 4500     |    .bin, 9615       |   .csv, 79506    |
 
 
 ## Reference

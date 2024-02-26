@@ -1,6 +1,6 @@
 ## **YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research**
 
-The York University Teledyne Optech (YUTO) Mobile Mapping System (MMS) Dataset, encompassing four extensive sequences totalling 18.9 kilometres, was thoroughly assembled through two data collection expeditions on August 12,
+The York University Teledyne Optech (YUTO) Mobile Mapping System (MMS) Dataset, encompassing four extensive sequences totalling 20.1 kilometres, was thoroughly assembled through two data collection expeditions on August 12,
 2020, and June 21, 2019. Acquisitions were performed using a uniquely equipped vehicle, fortified with a panoramic camera, a tilted LiDAR, a Global Positioning System (GPS), and an Inertial Measurement Unit (IMU), journeying through
 two strategic locations: the York University Keele Campus in Toronto and the Teledyne Optech headquarters in City of Vaughan, Canada. This is a robust benchmark of prevailing Simultaneous Localization and Mapping (SLAM) systems. 
 This dataset was created by a team of [AUSM Lab](https://gunhosohn.me/).
@@ -102,8 +102,7 @@ Sequence | Number of image files | Number of LiDAR scans | Number of GPS+IMU dat
 A | 700 | 1432 | 11845 | 3.8 GB   
 B | 8382 | 17395 | 143637 | 45.6 GB     
 C | 10778 | 22992 | 189875 | 59.2 GB    
-D | 9863 | 19775 | 163295 | 54.7 GB    
-E | 8157 | 22216 | 183451 | 44.4 GB    
+D | 4500 | 9615 | 79506 | 25.2 GB    
 
 **Dataset Evaluation**
 
