@@ -122,7 +122,3 @@ D | 10.665 | 12.875 | 5.673  | 4.69 | Fail  | 58.576 | 2.204
 
 To get the udpates of YUTO dataset, [news](/news.md).
 
-## **License**
-
-The dataset license, [license](/license.md).
-
