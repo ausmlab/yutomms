@@ -10,7 +10,7 @@ For more details check out our paper ["YUTO MMS: A Comprehensive SLAM Dataset fo
 
 * **Key Links**
 	* **YUTO MMS Dataset**: [Download](https://ausmlab.github.io/yutomms/download.html)
-	* **Paper**: ["YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research"](https://www.researchgate.net/profile/Yujia-Zhang-29)
+	* **Paper**: ["YUTO MMS: A Comprehensive SLAM Dataset for Urban Mobile Mapping with Tilted LiDAR and Panoramic Camera Integration"](https://www.researchgate.net/profile/Yujia-Zhang-29)
 	* **Models Code**: [MaverickProjectLidar2Image](https://github.com/yujiazhang777/MaverickProjectLidar2Image)
 	* **Website**: [YUTO MMS](https://ausmlab.github.io/yutomms/)
 
@@ -25,10 +25,10 @@ For more details check out our paper ["YUTO MMS: A Comprehensive SLAM Dataset fo
 ### Datasets
 
 
-* Sequence A: .
-* Sequence B: .
-* Sequence C: .
-* Sequence D: .
+* Sequence A: 324 m, one small loop.
+* Sequence B: 7035 m, one large loop and a few small loops.
+* Sequence C: 9137 m, many medium-size loops.
+* Sequence D: 3634 m, a few loops.
 
 ### Data Format
 
@@ -41,8 +41,8 @@ For more details check out our paper ["YUTO MMS: A Comprehensive SLAM Dataset fo
 		* **``"longitude"``**: .
                                 * **``"altitude"``**: .
 
-* Panoramic images:
-* Lidar scans:
+* Panoramic images: .jpg.
+* Lidar scans: .bin.
 	
 
 ### Data Statistics
