@@ -31,7 +31,7 @@
 - Click here to [download Sequence D Part3](https://zenodo.org/records/10572097?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM1NTRhYTA2LTdkZjgtNDk2Mi1hMDQxLTA5MWNjMjdiNWFlNSIsImRhdGEiOnt9LCJyYW5kb20iOiIyYjEwYzk5ODdkNzU5YTE5NzgxYzA0OTBhOGJiY2I4ZSJ9.iGAV3Sthvhx5t1dvyscCGySqaVHFQ1XCN5-_7GDZyi1vA71hCjF1bdhgnvS1FEgiWjtpFRvMy30M2RwgjpzWEA).
   
 
-## Dataset License 
+ 
 CC BY-NC-SA 4.0 License
 
 Copyright (c) 2024 AUSMLab
