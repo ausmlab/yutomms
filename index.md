@@ -1,4 +1,4 @@
-## **YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research**
+## **YUTO MMS: A Comprehensive SLAM Dataset for Urban Mobile Mapping with Tilted LiDAR and Panoramic Camera Integration**
 
 The York University Teledyne Optech (YUTO) Mobile Mapping System (MMS) Dataset, encompassing four extensive sequences totalling 20.1 kilometres, was thoroughly assembled through two data collection expeditions on August 12,
 2020, and June 21, 2019. Acquisitions were performed using a uniquely equipped vehicle, fortified with a panoramic camera, a tilted LiDAR, a Global Positioning System (GPS), and an Inertial Measurement Unit (IMU), journeying through
@@ -16,7 +16,7 @@ For more details on YUTO MMS dataset, please refer to our [paper](#paper).
 
 ## **Paper**
 
-[**YUTO MMS: A Comprehensive Mobile Mapping Dataset for Enhanced SLAM Research**](https://www.researchgate.net/profile/Yujia-Zhang-29)  
+[**YUTO MMS: A Comprehensive SLAM Dataset for Urban Mobile Mapping with Tilted LiDAR and Panoramic Camera Integration**](https://www.researchgate.net/profile/Yujia-Zhang-29)  
 Yujia Zhang, SeyedMostafa Ahmadi, Jungwon Kang, Zahra Arjmandi and Gunho Sohn  
 *The International Journal of Robotics Research, 2024*  
 
