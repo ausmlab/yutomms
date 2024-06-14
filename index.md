@@ -16,43 +16,24 @@ For more details on YUTO MMS dataset, please refer to our [paper](#paper).
 
 ## **Paper**
 
-[**YUTO MMS: A Comprehensive SLAM Dataset for Urban Mobile Mapping with Tilted LiDAR and Panoramic Camera Integration**](https://journals.sagepub.com/doi/10.1177/02783649241261079)  
-Zhang Y, Ahmadi S, Kang J, Arjmandi Z, Sohn G. YUTO MMS: A comprehensive SLAM dataset for urban mobile mapping with tilted LiDAR and panoramic camera integration. The International Journal of Robotics Research. 2024;0(0). doi:10.1177/02783649241261079
+[**Zhang Y, Ahmadi S, Kang J, Arjmandi Z, Sohn G. YUTO MMS: A comprehensive SLAM dataset for urban mobile mapping with tilted LiDAR and panoramic camera integration. The International Journal of Robotics Research. 2024;0(0). doi:10.1177/02783649241261079**](https://journals.sagepub.com/doi/10.1177/02783649241261079)  
+
 
 ```markdown
 @article{doi:10.1177/02783649241261079,
 author = {Yiujia Zhang and SeyedMostafa Ahmadi and Jungwon Kang and Zahra Arjmandi and Gunho Sohn},
 title ={YUTO MMS: A comprehensive SLAM dataset for urban mobile mapping with tilted LiDAR and panoramic camera integration},
-
 journal = {The International Journal of Robotics Research},
 volume = {0},
 number = {0},
 pages = {02783649241261079},
 year = {0},
 doi = {10.1177/02783649241261079},
-
-URL = { 
-    
-        https://doi.org/10.1177/02783649241261079
-    
-    
-
-},
-eprint = { 
-    
-        https://doi.org/10.1177/02783649241261079
-    
-    
-
+URL = {https://doi.org/10.1177/02783649241261079},
+eprint = {https://doi.org/10.1177/02783649241261079},
 }
-,
-    abstract = { The York University Teledyne Optech (YUTO) Mobile Mapping System (MMS) Dataset, encompassing four sequences totaling 20.1 km, was thoroughly assembled through two data collection expeditions on August 12, 2020, and June 21, 2019. Acquisitions were performed using a uniquely equipped vehicle, fortified with a panoramic camera, a tilted LiDAR, a Global Positioning System (GPS), and an Inertial Measurement Unit (IMU), journeying through two strategic locations: the York University Keele Campus in Toronto and the Teledyne Optech headquarters in City of Vaughan, Canada. This paper not only delineates the comprehensive overview of the YUTO MMS dataset, delving into aspects such as the collection procedure, sensor configuration, synchronization, data structure and format but also presents a robust benchmark of prevailing Simultaneous Localization and Mapping (SLAM) systems. By subjecting them to analysis utilizing the introduced dataset, this research lays a foundational baseline for ensuing studies, thereby contributing to advancements and enhancements in the SLAM-integrated mobile mapping system. The dataset can be downloaded from: https://ausmlab.github.io/yutomms/. }
-}
-
-
 
 ```
-
 ## **Authors**
 
 <div>

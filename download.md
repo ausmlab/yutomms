@@ -7,6 +7,8 @@
   * IMU
   * GNSS
 
+Note: If you need to download images from the six monocular cameras of the panoramic camera, please contact the [author](yujia.zhang777@gmail.com).
+
 * **Sequence A**: 
 - Click here to [download Sequence A](https://zenodo.org/records/10521656?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjYwNmQwMmJkLTFjOTktNDRlZS04YWNkLTgyOWJiNjI1YzhiMSIsImRhdGEiOnt9LCJyYW5kb20iOiJhNzY1MWIyMGQ5NzViMThlYWI0NjlkNDM2ODQ0NWFlYiJ9.d1MZxG5mI2OgMAjBtm5wo4zzi8B04d6LkK8rJlwQ1sRZUkBDNyPWU-AoBOdGxv5SUQ0lpV_QeCmXFqwDV2gYfA).
 
