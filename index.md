@@ -113,6 +113,7 @@ C | 155.908 | 160.765 | 30.661  | 11.93 | Fail  | 183.619 | 3.739
 D | 10.665 | 12.875 | 5.673  | 4.69 | Fail  | 58.576 | 2.204  
 
 **Our papers using YUTO MMS dataset**
+
 M. Ahmadi, A. A. Naeini, M. M. Sheikholeslami, Z. Arjmandi, Y. Zhang and G. Sohn, "HDPV-SLAM: Hybrid Depth-Augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera," 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE), Auckland, New Zealand, 2023, pp. 1-8, doi: 10.1109/CASE56687.2023.10260361.
 
 Zhang, Yujia, Jungwon Kang, and Gunho Sohn. 2023. "PVL-Cartographer: Panoramic Vision-Aided LiDAR Cartographer-Based SLAM for Maverick Mobile Mapping System" Remote Sensing 15, no. 13: 3383. https://doi.org/10.3390/rs15133383
