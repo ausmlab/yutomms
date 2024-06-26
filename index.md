@@ -30,7 +30,7 @@ pages = {02783649241261079},
 year = {0},
 doi = {10.1177/02783649241261079},
 URL = {https://doi.org/10.1177/02783649241261079},
-eprint = {https://doi.org/10.1177/02783649241261079},
+eprint = {https://doi.org/10.1177/02783649241261079}
 }
 
 ```
@@ -40,7 +40,7 @@ eprint = {https://doi.org/10.1177/02783649241261079},
 <div class="card">
   <img src="images/authors/author_01.jpg" alt="Avatar" width="250" height="100">
   <div class="container">
-    <a href="https://ausmlab.github.io/yutomms/">
+    <a href="https://scholar.google.com/citations?hl=en&user=ww8ZXGEAAAAJ">
     <h4><b>Yujia Zhang</b></h4>  
     </a>
   </div>
