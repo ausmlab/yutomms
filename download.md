@@ -10,10 +10,10 @@
 Note: If you need to download images from the six monocular cameras of the panoramic camera, please contact the author (email: cynthia.zhang777@gmail.com).
 
 * **Sequence A**: 
-- Click here to [download Sequence A](https://zenodo.org/records/10521656?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjYwNmQwMmJkLTFjOTktNDRlZS04YWNkLTgyOWJiNjI1YzhiMSIsImRhdGEiOnt9LCJyYW5kb20iOiJhNzY1MWIyMGQ5NzViMThlYWI0NjlkNDM2ODQ0NWFlYiJ9.d1MZxG5mI2OgMAjBtm5wo4zzi8B04d6LkK8rJlwQ1sRZUkBDNyPWU-AoBOdGxv5SUQ0lpV_QeCmXFqwDV2gYfA).
+- Click here to [download Sequence A](https://zenodo.org/records/13203376?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjYwNmQwMmJkLTFjOTktNDRlZS04YWNkLTgyOWJiNjI1YzhiMSIsImRhdGEiOnt9LCJyYW5kb20iOiJhNzY1MWIyMGQ5NzViMThlYWI0NjlkNDM2ODQ0NWFlYiJ9.d1MZxG5mI2OgMAjBtm5wo4zzi8B04d6LkK8rJlwQ1sRZUkBDNyPWU-AoBOdGxv5SUQ0lpV_QeCmXFqwDV2gYfA).
 
 * **Sequence B**: 
-- Click here to [download Sequence B Part1](https://zenodo.org/records/10575516?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZlOGFhNDMwLWZhMTgtNDRhNi1iMjVlLTI5ZWFjMmZhNzU2MSIsImRhdGEiOnt9LCJyYW5kb20iOiJjOWRmMjNkMGYwMzA2MGIzMWNkYTE5MmRiNmQ3M2RiNCJ9.Jcu97dIHer9UviKrPEj0GVjYI9Zp4zaAp9ZYpRvNQGVrsPNT1laNsH5cc8Dn6xgFDluRRsM78-MWbR4bs5QaSg).
+- Click here to [download Sequence B Part1](https://zenodo.org/records/13235145?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZlOGFhNDMwLWZhMTgtNDRhNi1iMjVlLTI5ZWFjMmZhNzU2MSIsImRhdGEiOnt9LCJyYW5kb20iOiJjOWRmMjNkMGYwMzA2MGIzMWNkYTE5MmRiNmQ3M2RiNCJ9.Jcu97dIHer9UviKrPEj0GVjYI9Zp4zaAp9ZYpRvNQGVrsPNT1laNsH5cc8Dn6xgFDluRRsM78-MWbR4bs5QaSg).
 - Click here to [download Sequence B Part2](https://zenodo.org/records/10576909?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjYzYjY2YTU2LTQ1ZTctNDgwNC04M2UxLTJjYjUyMjY5MjVmNiIsImRhdGEiOnt9LCJyYW5kb20iOiIwNjY4OGYxOWI0NWM2ZWExY2ZiMjZmNzY5YzYxZmVjOCJ9.WHLold0dSWkqvJRtaWUxvtnCmh7_zA7ByyiSinxKbE3No8hO9X1kKkaK-vfSg6klmrMNOYr11p8JnkjGsobH-Q).
 - Click here to [download Sequence B Part3](https://zenodo.org/records/10576911?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6Ijk1Y2ViNjFjLTY2YTctNDhkMy05Y2Q3LWExMjYyNDBkOGQxYSIsImRhdGEiOnt9LCJyYW5kb20iOiI1M2QxZGJkMTg0OGZjZWFjNWIyYThkYWEzNDI3ZWM4YSJ9.d--E4dAomLUVGPRJBYTuRCCj8XbWcNYuNsFjXvBCp0POx9cTpGYLkk5rqct-QywfHn_30M_CWofcgvXMmAcfNA).
 - Click here to [download Sequence B Part4](https://zenodo.org/records/10577975?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjE2ZjZlYTk4LWY0NjgtNDE2OC05OTk0LWExZjY3Y2I2ZGQ0ZiIsImRhdGEiOnt9LCJyYW5kb20iOiI1M2Q3OWY2YzIyNjFlOGYzYjM5ODZjZDI0MGY4NGY5YSJ9.MgQRlznCFSDYJvg1-PR6lyYYTdVAoNxsrAKaQNmA-rAaIxEWjblgOIFfK7sdu50XMh8adLBHxy8BdLnuHI1IPg).
